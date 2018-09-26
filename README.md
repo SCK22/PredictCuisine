@@ -12,4 +12,4 @@ Results:
 Achieved 72% recall on the test data upon submission in kaggle.
 Most models had a validation recall of 70%, which is very close to the recall on the test data.
 
-<img src img = "img/tensorboard.PNG">
+<src img = "img/tensorboard.PNG">
